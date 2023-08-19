@@ -1,1 +1,1 @@
-# caching_wp_queries_transient_API
+# caching_wp_queries_with_transient_API
